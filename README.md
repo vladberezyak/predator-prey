@@ -20,4 +20,5 @@
 - plot_graph
 # Как запустить
 Запустить файл GuiMode.py
-
+# График
+![Alt Text](https://github.com/vladberezyak/predator-prey/blob/main/animation.gif)
